@@ -1,0 +1,6 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"addmessages-desc": "Allows admins to add or replace default messages using a global variable"
+}
