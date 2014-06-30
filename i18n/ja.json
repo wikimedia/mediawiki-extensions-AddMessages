@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"addmessages-desc": "管理者がグローバル変数を使用して既定のメッセージを追加/置換できるようにする"
+}

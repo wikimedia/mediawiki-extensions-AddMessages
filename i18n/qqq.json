@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Shirayuki"
+		]
 	},
-	"addmessages-desc": "{{desc}}"
+	"addmessages-desc": "{{desc|name=Add Messages|url=http://www.mediawiki.org/wiki/Extension:AddMessages}}"
 }
