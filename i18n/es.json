@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"addmessages-desc": "Permite que los administradores añadan o reemplacen los mensajes predeterminados mediante una variable global"
+}
