@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"addmessages-desc": "Umożliwia administratorom dodawanie lub zmianę domyślnych komunikatów przy użyciu zmiennej globalnej"
+}
