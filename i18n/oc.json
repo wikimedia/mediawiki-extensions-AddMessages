@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"addmessages-desc": "Permet als administrators d’apondre o remplaçar los messatges per defaut en utilizant una variabla globala"
+}
