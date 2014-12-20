@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Revi"
+		]
+	},
+	"addmessages-desc": "관리자가 기본 메시지를 전역 변수를 통해 추가하거나 수정하도록 허용"
+}
