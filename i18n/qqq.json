@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"addmessages-desc": "{{desc|name=Add Messages|url=http://www.mediawiki.org/wiki/Extension:AddMessages}}"
+	"addmessages-desc": "{{desc|name=Add Messages|url=https://www.mediawiki.org/wiki/Extension:AddMessages}}"
 }
