@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cvanca"
+		]
+	},
+	"addmessages-desc": "Umožňuje správcům přidat nebo nahradit výchozí zprávy pomocí globální proměnné"
+}
