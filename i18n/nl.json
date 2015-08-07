@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esketti"
+			"Esketti",
+			"McDutchie"
 		]
 	},
-	"addmessages-desc": "Stelt beheerders in staat om het toevoegen of vervangen van standaard berichten met behulp van een globale variabele"
+	"addmessages-desc": "Stelt beheerders in staat om standaardberichten met behulp van een globale variabele toe te voegen of te vervangen"
 }
