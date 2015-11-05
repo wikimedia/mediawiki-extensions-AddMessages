@@ -20,7 +20,6 @@ $wgExtensionCredits['other'][] = array(
 
 $wgAutoloadClasses['AddMessages'] = __DIR__ . '/AddMessages.class.php';
 $wgHooks['LocalisationCacheRecache'][] = 'AddMessages::onLocalisationCacheRecache';
-$wgExtensionMessagesFiles['AddMessages'] = __DIR__ . '/AddMessages.i18n.php';
 $wgMessagesDirs['AddMessages'] = __DIR__ . '/i18n';
 
 // Array of message key and value pairs. Will overwrite existing messages.
