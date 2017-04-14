@@ -19,7 +19,9 @@ class AddMessages {
 	 */
 	public static function onLocalisationCacheRecache( $cache, $code, &$alldata ) {
 		global $wgAmMessages;
-		$alldata['messages'] = array_merge( $alldata['messages'], $wgAmMessages );
+
+		$messages = $wgAmMessages[$code];
+		$alldata['messages'] = array_merge( $alldata['messages'], $messages );
 		$alldata['deps'][] = new GlobalDependency( 'wgAmMessages' );
 
 		return true;

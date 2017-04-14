@@ -24,5 +24,6 @@ $wgMessagesDirs['AddMessages'] = __DIR__ . '/i18n';
 
 // Array of message key and value pairs. Will overwrite existing messages.
 // Set in LocalSettings.php
-// Example: $wgAmMessages = array( 'toolbox' => 'My Toolbox' );
+// Example: $wgAmMessages['en'] = [];
+//          $wgAmMessages['en'] = array( 'toolbox' => 'My Toolbox' );
 $wgAmMessages = [];
