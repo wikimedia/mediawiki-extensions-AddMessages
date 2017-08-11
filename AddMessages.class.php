@@ -15,7 +15,7 @@ class AddMessages {
 	 * @param $cache
 	 * @param $code
 	 * @param array $alldata
-	 * @return boolean
+	 * @return bool
 	 */
 	public static function onLocalisationCacheRecache( $cache, $code, &$alldata ) {
 		global $wgAmMessages;
