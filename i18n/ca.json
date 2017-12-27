@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"addmessages-desc": "Permet als administradors afegir o substituïr missatges mitjançant una variable global"
+}
