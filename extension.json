@@ -1,0 +1,27 @@
+{
+	"name": "AddMessages",
+	"version": "0.3",
+	"author": "Ike Hecht",
+	"url": "https://www.mediawiki.org/wiki/Extension:AddMessages",
+	"descriptionmsg": "addmessages-desc",
+	"license-name": "GPL-2.0-or-later",
+	"type": "other",
+	"MessagesDirs": {
+		"AddMessages": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"AddMessages": "AddMessages.class.php"
+	},
+	"Hooks": {
+		"LocalisationCacheRecache": "AddMessages::onLocalisationCacheRecache"
+	},
+	"config": {
+		"AmMessages": {
+			"value": [],
+			"description": "Array of message key and value pairs. Will overwrite existing messages. Set in LocalSettings.php, Example: $wgAmMessages = array( 'toolbox' => 'My Toolbox' );"
+		}
+	},
+	"manifest_version": 2
+}
