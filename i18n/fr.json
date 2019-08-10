@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Wladek92"
 		]
 	},
-	"addmessages-desc": "Permet aux administrateurs d’ajouter ou remplacer les messages par défaut en utilisant une variable globale"
+	"addmessages-desc": "Permet aux administrateurs d’ajouter ou de remplacer les messages par défaut en utilisant une variable globale"
 }
