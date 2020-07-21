@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Srdjan m"
+			"Srdjan m",
+			"Srđan"
 		]
 	},
 	"addmessages-desc": "Dozvoljava administratorima da dodaju ili zamjene predodređene poruke koristeći se globalnom varijablom"
