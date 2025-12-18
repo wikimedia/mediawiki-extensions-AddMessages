@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Arifin.wijaya"
+			"Arifin.wijaya",
+			"Penyuwangi"
 		]
 	},
-	"addmessages-desc": "Memungkinkan admin untuk menambah atau mengganti pesan default dengan menggunakan variabel global"
+	"addmessages-desc": "Memungkinkan pengurus untuk menambah atau mengganti pesan bawaan menggunakan peubah global"
 }
